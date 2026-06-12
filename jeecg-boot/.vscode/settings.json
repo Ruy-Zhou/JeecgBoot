@@ -1,0 +1,6 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.maven.userSettings": "D:\\\\Programs\\\\maven\\\\conf\\\\settings.xml",
+    "java.configuration.maven.globalSettings": "D:\\\\Programs\\\\maven\\\\conf\\\\settings.xml"
+}
